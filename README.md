@@ -41,6 +41,10 @@ Make a App in Ubuntu with Android Studio (Ubuntu)
   5-1. 로컬 설치  
     -> 기본 설정을 아무것도 건드리지 않고 dark 모드만 설정
 
+99. NNStreamer를 활용한 물체인식 자동 촬영 예제 어플
+	```
+	 - https://github.com/Joojihwan/nnstreamer-example/tree/master/android/example_app/nnstreamer-ssd-autocapture
+	```
 
 참고페이지  
     - https://coding-factory.tistory.com/503 (기본 설치과정 참고)  
